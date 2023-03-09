@@ -13,6 +13,6 @@ I implemented a filter (via soft) to avoid any noise produced by the knobs.
 * 4 scenes
 * 1 momentary button (scene selector)
 * USB MIDI device
-<pre>
-</pre>
+
+&nbsp;
 ![](32knobs.png)
